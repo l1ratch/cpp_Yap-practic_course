@@ -1,3 +1,3 @@
-Файл запуска - bonus satisfactory.sln
-Диаграмма глассов - ClassDiagram.png
-Отчет по практике - 
+Файл запуска - bonus satisfactory.sln<br>
+Диаграмма глассов - ClassDiagram.png<br>
+Отчет по практике - <br><br>
