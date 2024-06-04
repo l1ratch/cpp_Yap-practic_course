@@ -1,0 +1,16 @@
+﻿  bonus satisfactory.cpp
+C:\Users\sm171\Desktop\Course\bonus satisfactory\ClassEdit.h(43,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sm171\Desktop\Course\bonus satisfactory\ClassMenu.h(70,45): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sm171\Desktop\Course\bonus satisfactory\ClassMenu.h(73,52): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sm171\Desktop\Course\bonus satisfactory\ExamsResultsClass.h(128,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\sm171\Desktop\Course\bonus satisfactory\ExamsResultsClass.h(209,13): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\sm171\Desktop\Course\bonus satisfactory\StudentClass.h(94,19): warning C4101: year: неиспользованная локальная переменная
+C:\Users\sm171\Desktop\Course\bonus satisfactory\StudentClass.h(245,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\sm171\Desktop\Course\bonus satisfactory\StudentClass.h(484,16): warning C4101: sn: неиспользованная локальная переменная
+C:\Users\sm171\Desktop\Course\bonus satisfactory\StudentClass.h(487,7): warning C4101: curCount: неиспользованная локальная переменная
+C:\Users\sm171\Desktop\Course\bonus satisfactory\StudentClass.h(596,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\sm171\Desktop\Course\bonus satisfactory\ClassFileWraper.h(75,1): warning C4715: ClassFileWraper::loadData: значение возвращается не при всех путях выполнения
+C:\Users\sm171\Desktop\Course\bonus satisfactory\StudentClass.h(73,1): warning C4715: StudentClass::editSex: значение возвращается не при всех путях выполнения
+  bonus satisfactory.vcxproj -> C:\Users\sm171\Desktop\Course\bonus satisfactory\x64\Debug\bonus satisfactory.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
